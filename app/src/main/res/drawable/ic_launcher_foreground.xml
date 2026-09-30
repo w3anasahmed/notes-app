@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Soft shadow glow behind book -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M27,33h54v50h-54z" />
+    
+    <!-- Open Book / Note card background -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M28,30h52c2.2,0 4,1.8 4,4v42c0,2.2 -1.8,4 -4,4h-52c-2.2,0 -4,-1.8 -4,-4v-42c0,-2.2 1.8,-4 4,-4z" />
+    
+    <!-- Left spine / accent bar -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M24,34c0,-2.2 1.8,-4 4,-4h4v50h-4c-2.2,0 -4,-1.8 -4,-4z" />
+
+    <!-- Ruled note lines -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M38,42h36v3h-36z M38,50h36v3h-36z M38,58h26v3h-26z" />
+
+    <!-- Bookmark Clip overlay (Vibrant Amber) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M64,25h12c1.1,0 2,0.9 2,2v26l-8,-4l-8,4v-26c0,-1.1 0.9,-2 2,-2z" />
+
+    <!-- Vocabulary star / sparkle highlight -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M44,66l2,4l4,2l-4,2l-2,4l-2,-4l-4,-2l4,-2z" />
+</vector>

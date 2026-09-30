@@ -1,0 +1,6 @@
+{
+  "name": "VocabClip",
+  "description": "Capture vocabulary and notes from any app via text selection, with structured JSON export/import and AI prompt schema compatibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

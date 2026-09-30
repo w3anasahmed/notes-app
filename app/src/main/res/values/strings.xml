@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VocabClip</string>
+    <string name="quick_save_action">Save to VocabClip</string>
+</resources>
